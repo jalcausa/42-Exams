@@ -28,7 +28,7 @@ int	ft_atoi_base(const char *str, int str_base)
 	}
 	return (res * sign);
 }
-
+/*
 #include <stdio.h>
 int main()
 {
@@ -38,3 +38,4 @@ int main()
 	printf("%d\n", s);
 	return (0);
 }
+*/
